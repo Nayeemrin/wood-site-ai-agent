@@ -1,0 +1,37 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Google/API credentials
+credentials.json
+service-account*.json
+*.pem
+*.key
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Generated images and results
+data/images/
+data/results/
+
+# Logs
+*.log

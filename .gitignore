@@ -35,3 +35,5 @@ data/results/
 
 # Logs
 *.log
+# Agent virtual environment
+.venv-agent/

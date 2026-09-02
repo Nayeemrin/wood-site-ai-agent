@@ -37,3 +37,6 @@ data/results/
 *.log
 # Agent virtual environment
 .venv-agent/
+
+# Manual validation screenshots
+data/screenshots/
